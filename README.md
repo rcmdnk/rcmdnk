@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm rcmdnk!
 
-<img alt="rcmdnk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rcmdnk&amp;theme=graywhite&amp;show_icons=true&amp;count_private=false">
+<img alt="rcmdnk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rcmdnk&amp;theme=&amp;show_icons=true&amp;count_private=false">
 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmdnk&amp;layout=compact&amp;langs_count=8&amp;exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test,discovering-hot-topics-using-machine-learning">
 
