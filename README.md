@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rcmdnk/vim_ahk,rcmdnk/homebrew-file,rcmdnk/sentaku&type=Date)](https://star-history.com/#rcmdnk/vim_ahk&rcmdnk/homebrew-file&rcmdnk/sentaku&Date)
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0lKV1JyOWF1WE8yWmlIS1hLblM5eHNRaUtydlZTVjJFZDNWVg==#rcmdnk/vim_ahk&rcmdnk/homebrew-file&rcmdnk/sentaku&Date" frameBorder="0"></iframe>
