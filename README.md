@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm rcmdnk!
 
-![rcmdnk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcmdnk&theme=graywhite)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmdnk&layout=compact&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rcmdnk&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=rcmdnk&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
 
 <!--
 **rcmdnk/rcmdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
